@@ -1,5 +1,14 @@
-- https://www.airstream.com/touring-coaches/rangeline/specifications/
-- https://support.airstream.com/hc/en-us/sections/8525466243220
+- [Airstream Specifications](https://www.airstream.com/touring-coaches/rangeline/specifications/)
+	- TODO | Item | Spec |
+	  | ---- | ---- |
+	  | Chassis | RAM ProMaster® 3500 |
+	  | Engine | 3.6L Pentastar® V6 24V VVT Engine |
+	  | Emissions | 50 State Emissions |
+	  | Horsepower | 276 HP @ 6400 RPM / 250 ft/lbs @ 4400 RPM |
+	  | Transmission | 9 Speed Automatic |
+	  | Axle Ratio | 4.08 |
+	-
+- [Airstream User Guides](https://support.airstream.com/hc/en-us/sections/8525466243220)
 - Walkthrough tour
 	- {{video https://www.youtube.com/watch?v=Jf_c_w7eD8U}}
 - [Garage dimensions](https://support.airstream.com/hc/en-us/articles/9442991728276-Rangeline-Garage-Dimensions)
