@@ -10,7 +10,6 @@
 	  > Unsafe when not bolted to frame
 		- [AMF Seats](https://rre-global.com/smartfloor-usa-flooring-seating-systems/)
 		  ![AMF Seat Measurements](../assets/image_1687967303708_0.png)
-			- TODO Contact [[Boulder Camper Vans/Maddi]] to get it in to their shop and in the queue to add one (or two?) seats in back.
 			-
 		- https://www.vanevolve.com/collections/seats-benches-beds/products/rib-scopema-altair-pre-order-2p
 		- https://fliphtml5.com/riaa/hrfn/basic
