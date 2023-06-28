@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -414,4 +414,8 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :feature/enable-whiteboards? false
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :journal/page-title-format "yyyy-MM-dd"
+ :feature/enable-journals? true
+ :default-home {}
+ :feature/enable-timetracking? false}
