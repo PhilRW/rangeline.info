@@ -1,0 +1,2 @@
+- ![Auxiliary battery connector.pdf](../assets/Auxiliary_battery_connector_1687984095378_0.pdf)
+	-
