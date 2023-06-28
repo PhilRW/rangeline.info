@@ -6,6 +6,7 @@
 	- 30 3/4" tall, 54" deep, 35 1/2" wide
 	- https://support.airstream.com/hc/article_attachments/9621174621460/_2023_Rangeline__Bed_Down_Garage_Dimensions.jpg
 - [Bed sizes](https://support.airstream.com/hc/en-us/articles/8956930727700-Size-of-the-Rangeline-folding-and-pop-top-bed)
+  id:: 649c558b-e52e-4e05-a35f-68b7ecf8d493
 	- Rear bed
 		- 74 inches by 52 1/4 inches, 4 inches thick
 		- https://support.airstream.com/hc/article_attachments/9210850433172/Rangeline_Interior_Bed_Rearview.png

@@ -416,5 +416,5 @@
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
  :journal/page-title-format "yyyy-MM-dd"
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {}}
