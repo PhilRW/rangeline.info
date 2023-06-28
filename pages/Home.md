@@ -1,2 +1,0 @@
-- [[Specifications]]
-- [[Parts and Supplies]]
