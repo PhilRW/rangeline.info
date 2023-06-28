@@ -1,0 +1,15 @@
+- https://www.airstream.com/touring-coaches/rangeline/specifications/
+- https://support.airstream.com/hc/en-us/sections/8525466243220
+- Walkthrough tour
+	- {{video https://www.youtube.com/watch?v=Jf_c_w7eD8U}}
+- [Garage dimensions](https://support.airstream.com/hc/en-us/articles/9442991728276-Rangeline-Garage-Dimensions)
+	- 30 3/4" tall, 54" deep, 35 1/2" wide
+	- https://support.airstream.com/hc/article_attachments/9621174621460/_2023_Rangeline__Bed_Down_Garage_Dimensions.jpg
+- [Bed sizes](https://support.airstream.com/hc/en-us/articles/8956930727700-Size-of-the-Rangeline-folding-and-pop-top-bed)
+	- Rear bed
+		- 74 inches by 52 1/4 inches, 4 inches thick
+		- https://support.airstream.com/hc/article_attachments/9210850433172/Rangeline_Interior_Bed_Rearview.png
+	- Optional pop-top
+		- 78 inches by 50 1/2 inches, 3 inches thick
+		- https://support.airstream.com/hc/article_attachments/9210921911188/Rangeline_Pop-Top.png
+- Flooring https://infinitylwv.com/
