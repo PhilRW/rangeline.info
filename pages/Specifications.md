@@ -10,7 +10,7 @@
 	-
 - [Airstream User Guides](https://support.airstream.com/hc/en-us/sections/8525466243220)
 - Walkthrough tour
-	- {{video https://www.youtube.com/watch?v=Jf_c_w7eD8U}}
+	- {{video https://www.youtube.com/watch?v=Jf_c_w7eD8U}} #video
 - [Garage dimensions](https://support.airstream.com/hc/en-us/articles/9442991728276-Rangeline-Garage-Dimensions)
 	- 30 3/4" tall, 54" deep, 35 1/2" wide
 	- https://support.airstream.com/hc/article_attachments/9621174621460/_2023_Rangeline__Bed_Down_Garage_Dimensions.jpg
