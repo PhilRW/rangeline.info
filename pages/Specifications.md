@@ -1,12 +1,30 @@
 - [Airstream Specifications](https://www.airstream.com/touring-coaches/rangeline/specifications/)
-	- TODO | Item | Spec |
+	- | Item | Spec |
 	  | ---- | ---- |
 	  | Chassis | RAM ProMaster® 3500 |
 	  | Engine | 3.6L Pentastar® V6 24V VVT Engine |
-	  | Emissions | 50 State Emissions |
 	  | Horsepower | 276 HP @ 6400 RPM / 250 ft/lbs @ 4400 RPM |
 	  | Transmission | 9 Speed Automatic |
 	  | Axle Ratio | 4.08 |
+	  | MPG | 18-20 Estimated Highway |
+	  | GVWR/GCWR | 9,350 lbs / 12,000 lbs |
+	  | UBW | 7,661 lbs. (7,994 lbs. with Pop-Top) |
+	  | OCCC | 1,689 lbs. (1,356 lbs. with Pop-Top) |
+	  | Tow Package | Class IV Hitch with 7-Pin Plug |
+	  | Tow Capacity | Up To 3,500 lbs |
+	  | Overall Length | 20' 11" |
+	  | Overall Height | 9′ 5″ (Including A/C) |
+	  | Overall Width | 8' 2.25" |
+	  | Interior Height/Width | 6' 2.25" |
+	  | Tank Capacities | 28 gals (Fresh), 19 gals (Gray), 12 gals (Waste) |
+	  | Air Conditioner | 13,500 BTU w/ Soft Start |
+	  | Refrigerator & Freezer | 3.2 cu. ft. / .4 cu. ft. Freezer (12 volt w/ Marker Board Front) |
+	  | Converter/Inverter | 100 AMP Charger, 2,000 Watt True Sine Inverter |
+	  | [[Generator]] | Gas-Fueled 2.8 kW Ultra-Quiet w/ Remote Start |
+	  | Batteries (Coach) | 270 Ah Deep Cycle Lithium Gamechanger Battle Born Battery (LiFePO4) |
+	  | Shore Power | 30 AMP/110 Volt Service |
+	  | Solar Power | Single 200 Watt Panel |
+	-
 	-
 - [Airstream User Guides](https://support.airstream.com/hc/en-us/sections/8525466243220)
 - Walkthrough tour

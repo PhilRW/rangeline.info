@@ -1,9 +1,9 @@
 - [OpenPilot probably possible in the future](https://www.promasterforum.com/threads/porting-openpilot-to-2022-promaster.98363/)
-- [CabBunk](https://www.cabbunk.co.uk)
+- [CabBunk](https://www.cabbunk.co.uk) #equipment
 	- https://faroutride.com/cabbunk/
 	- [US Distributor](https://theswivelshop.com/collections/cabbunk?ref=FOR)
 	  > Use code `FarOutRide` for 5% off
-- Galanz ToastWave
+- Galanz ToastWave 
   > too big?
 - Smartfloor/Seating
   > Unsafe when not bolted to frame
