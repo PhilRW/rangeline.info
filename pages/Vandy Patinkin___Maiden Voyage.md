@@ -1,5 +1,5 @@
-- [Packing list and itinerary](https://hedgedoc.rosenberg-watt.com/aOIp_Jw7RyCWgnTxHS5NbQ) for shakedown voyage
-id:: 649f2cbf-86af-4ca3-ba0c-c66d07cc87e6
+- [Packing list](https://grist.rosenberg-watt.com/fqZKpwjq4eCD/Packing-List/p/3) and [itinerary](https://hedgedoc.rosenberg-watt.com/aOIp_Jw7RyCWgnTxHS5NbQ) for shakedown voyage
+  id:: 649f2cbf-86af-4ca3-ba0c-c66d07cc87e6
 - DONE Rent car to get to [[Airstream of Greensboro]]
   :LOGBOOK:
   CLOCK: [2023-04-12 Wed 13:44:49]--[2023-04-12 Wed 13:46:08] =>  00:01:19
@@ -12,11 +12,11 @@ id:: 649f2cbf-86af-4ca3-ba0c-c66d07cc87e6
 	- [Kayak search](https://www.kayak.com/cars/CLT-a17741/Greensboro,North-Carolina,United-States-c19589/2023-04-21/2023-04-21-20h?sort=rank_a&fs=carclass=-PICKUPTRUCK,MEDIUM,SMALL)
 	- UberXL or Lyft about $180
 - DONE [#A] Sign and return paperwork (overnighted via UPS) with $10K certified check to [[Airstream of Tampa]]
-### PDI Checklist
-id:: fc1c326f-8eb4-4d21-9a02-a815328c22d5
+- PDI Checklist
+  id:: fc1c326f-8eb4-4d21-9a02-a815328c22d5
 	- TODO Inspect roof for dents and sealant around all roof-mounted components.
 	- DONE Check all window covers for proper fit.
-		- DOING ordering new back door flap and cover for sliding door
+		- DOING ordering new back door flap and cover for sliding door via [[Airstream of Greensboro]] #incoming
 	- DONE Check that bathroom mirror is installed.
 	- DONE Check Air Conditioner vents, make sure they both open and close.
 	- DONE Verify that the van door locks work.

@@ -417,4 +417,5 @@
  :feature/enable-flashcards? false
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? true
- :default-home {}}
+ :default-home {}
+ :feature/enable-timetracking? false}
