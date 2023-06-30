@@ -65,6 +65,8 @@ public:: false
 	  SCHEDULED: <2023-06-12 Mon>
 	- DONE [#A] Sign and return paperwork (overnighted via UPS) with $10K certified check to [[Airstream of Tampa]]
 	- ### PDI Checklist
+	  id:: 959ecd19-ba4c-432f-b0fb-71c436d86c8a
+	  collapsed:: true
 		- TODO Inspect roof for dents and sealant around all roof-mounted components.
 		- DONE Check all window covers for proper fit.
 			- DOING ordering new back door flap and cover for sliding door
@@ -99,10 +101,7 @@ public:: false
 		- DONE make sure your fresh water tank fill point has a breather/overflow port.
 		- DONE check side window cover size (not too short?)
 		- DONE take a close look at the "upgraded" seat covers.
-		  > I didn't look at them too 
-		  closely during our presale process, but both the driver and passenger 
-		  seats have noticeable gaps in the material as well as other issues that 
-		  need to be addressed.
+		  > I didn't look at them too closely during our presale process, but both the driver and passenger seats have noticeable gaps in the material as well as other issues that need to be addressed.
 		- DONE Upper bathroom door track screws - open/close door all the way
 		-
 		-
