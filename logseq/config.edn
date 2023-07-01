@@ -418,4 +418,5 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? true
  :default-home {}
- :feature/enable-timetracking? false}
+ :feature/enable-timetracking? false
+ :graph/settings {:journal? true}}
