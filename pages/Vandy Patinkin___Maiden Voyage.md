@@ -16,7 +16,7 @@
   id:: fc1c326f-8eb4-4d21-9a02-a815328c22d5
 	- TODO Inspect roof for dents and sealant around all roof-mounted components.
 	- DONE Check all window covers for proper fit.
-		- DOING ordering new back door flap and cover for sliding door via [[Airstream of Greensboro]] #incoming
+	  id:: 649f3602-4d63-4676-b468-3a3b0ef7a6fe
 	- DONE Check that bathroom mirror is installed.
 	- DONE Check Air Conditioner vents, make sure they both open and close.
 	- DONE Verify that the van door locks work.
