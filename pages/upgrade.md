@@ -1,3 +1,4 @@
+- Generally permanently attached to the van, can include [[equipment]]
 - [OpenPilot probably possible in the future](https://www.promasterforum.com/threads/porting-openpilot-to-2022-promaster.98363/)
 - [CabBunk](https://www.cabbunk.co.uk) #equipment
 	- https://faroutride.com/cabbunk/
