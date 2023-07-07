@@ -1,4 +1,5 @@
 - [Airstream Specifications](https://www.airstream.com/touring-coaches/rangeline/specifications/)
+  title:: specification
 	- | Item | Spec |
 	  | ---- | ---- |
 	  | Chassis | RAM ProMaster® 3500 |
