@@ -1,1 +1,1 @@
-- **As an Amazon Associate I earn from qualifying purchases.**
+- As an Amazon Associate I earn from qualifying purchases.
