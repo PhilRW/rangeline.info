@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["equipment"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,5 +416,8 @@
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
  :journal/page-title-format "yyyy-MM-dd"
- :feature/enable-journals? false
- :default-home {:page "Home"}}
+ :feature/enable-journals? true
+ :default-home {}
+ :feature/enable-timetracking? false
+ :graph/settings {:journal? true}
+ :ui/show-brackets? true}

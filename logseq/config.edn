@@ -419,4 +419,5 @@
  :feature/enable-journals? true
  :default-home {}
  :feature/enable-timetracking? false
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? true}
+ :ui/show-brackets? false}
