@@ -1,0 +1,3 @@
+- This website is actually a [Logseq](https://logseq.com/) [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) that gets automatically published on the web.
+- It ain't pretty but it does contain a lot of information.
+- The search function is very helpful.
