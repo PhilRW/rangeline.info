@@ -1,0 +1,4 @@
+- This website is actually a [Logseq](https://logseq.com/) [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) that gets automatically published on the web.
+- It ain't pretty but it does contain a lot of information.
+- The search function is very helpful.
+- [publish-spa](https://github.com/logseq/publish-spa) is the GitHub Action that turns it into a website.

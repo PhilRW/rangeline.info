@@ -1,0 +1,2 @@
+- Make: Xantrex
+- Size: 2KW

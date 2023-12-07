@@ -1,0 +1,1 @@
+- {{query (and [[incoming]] (task DOING TODO))}}
