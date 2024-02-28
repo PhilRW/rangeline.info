@@ -1,0 +1,36 @@
+baseURL: https://rangeline.info/
+languageCode: en-us
+title: rangeline (dot) info
+theme: PaperMod
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+menu:
+  main:
+    - name: Posts
+      url: /post/
+    - name: Search
+      url: /search/
+    - name: Tags
+      url: /tags/
+    - name: Equipment
+      url: /equipment/
+params:
+  description: "Airstream Rangeline Information Site"
+  author: "Philip Rosenberg-Watt"
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  homeInfoParams:
+    Title: Welcome Home
+    Content: >
+      Welcome to our [Airstream Rangeline](https://www.airstream.com/touring-coaches/rangeline/) information site.
+      We believe this is the finest motorcoach for our purposes, a family of four, with two young children.
+      We hope you will find this site useful. We will note our experiences and trips with our 2022 Airstream Rangeline here.
