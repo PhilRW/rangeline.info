@@ -3,15 +3,13 @@ title: 🚙 Vandy Patinkin
 tags:
 - Airstream/Tampa
 - Airstream/Greensboro
+- generator
 ---
-- Sold by Airstream of Tampa
-	- Located at Airstream of Greensboro
-	- https://www.reddit.com/r/askcarsales/comments/zfdrn0/pay_off_a_car_loan_on_the_first_payment_instead/
 - VIN: 3C6MRVUG9NE137505
 	- ![Moroney Sticker](/assets/2023-04-07_WindowStickerPDF_1687984331298_0.pdf)
-		- ((649c98f5-4b2e-4dad-ad19-f5f9e01ed08a))
+		- "Adaptive Cruise Control with Stop and Go"
 			- should allow for Openpilot in the future
-		- ((649c9948-33d8-482e-8c59-51843a42639a))
+		- "Ram Connect (Connected Services) with Trial"
 			- mobile hotspot for $20/month
 - Generator
 	- S/N: L220177356
