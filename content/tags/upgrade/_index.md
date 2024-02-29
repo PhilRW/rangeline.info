@@ -1,5 +1,5 @@
 ---
-title: "Upgrades"
+title: "upgrade"
 ---
 Generally permanently attached to the van, can include [equipment]({{<ref "/equipment">}})
 - Galanz ToastWave 
