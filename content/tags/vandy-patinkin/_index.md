@@ -6,11 +6,9 @@ tags:
 - generator
 ---
 - VIN: 3C6MRVUG9NE137505
-	- ![Moroney Sticker](/assets/2023-04-07_WindowStickerPDF_1687984331298_0.pdf)
-		- "Adaptive Cruise Control with Stop and Go"
-			- should allow for Openpilot in the future
-		- "Ram Connect (Connected Services) with Trial"
-			- mobile hotspot for $20/month
+	- [Moroney Sticker](/assets/2023-04-07_WindowStickerPDF_1687984331298_0.pdf)
+		- "Adaptive Cruise Control with Stop and Go" → should allow for Openpilot in the future
+		- "Ram Connect (Connected Services) with Trial" → mobile hotspot for $20/month
 - Generator
 	- S/N: L220177356
 - Potential names
