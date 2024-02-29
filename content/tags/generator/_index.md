@@ -1,6 +1,5 @@
 ---
 title: "generator"
-showToc: false
 ---
 Cummins Onan QG 2800i generator
 - Model No. 2.8HGLAA-8302A

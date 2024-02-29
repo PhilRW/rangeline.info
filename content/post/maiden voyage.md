@@ -8,7 +8,6 @@ tags:
 - chassis
 - Vandy Patinkin
 - app/Mira
-showToc: false
 ---
 - [Packing list](https://grist.rosenberg-watt.com/fqZKpwjq4eCD/Packing-List/p/3) and [itinerary](https://hedgedoc.rosenberg-watt.com/aOIp_Jw7RyCWgnTxHS5NbQ) for shakedown voyage
 - [x] Rent car to get to Airstream of Greensboro

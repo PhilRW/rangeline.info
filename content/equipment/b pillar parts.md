@@ -2,7 +2,6 @@
 title: B pillar parts
 tags:
 - equipment
-showToc: false
 ---
 ## connector
 Mating Connector Terminal: Tyco P/N 350218-1 (up fitter provided)
