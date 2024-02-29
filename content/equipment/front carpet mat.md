@@ -1,5 +1,5 @@
 ---
-title: Front carpet map
+title: Front carpet mat
 tags:
 - equipment
 - social
