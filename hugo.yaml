@@ -1,6 +1,6 @@
 baseURL: https://rangeline.info/
 languageCode: en-us
-title: rangeline (dot) info
+title: rangeline(dot)info
 theme: PaperMod
 outputs:
   home:
