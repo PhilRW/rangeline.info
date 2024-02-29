@@ -34,3 +34,16 @@ params:
       Welcome to our [Airstream Rangeline](https://www.airstream.com/touring-coaches/rangeline/) information site.
       We believe this is the finest motorcoach for our purposes, a family of four, with two young children.
       We hope you will find this site useful. We will note our experiences and trips with our 2022 Airstream Rangeline here.
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/philrw/rangeline.info"
+    - name: other
+      title: Phil's Osophies 3.0™
+      url: "http://blog.rosenberg-watt.com"
+    - name: cv
+      title: Philip Rosenberg-Watt
+      url: "http://philip.rosenberg-watt.com/"
+    # - name: X
+      # title: Share on X/Twitter
+      # url: "https://x.com/intent/tweet/?text=Check%20out%20rangeline%20%28dot%29%20info&url=https://rangeline.info&hashtags=blog,RV,Airstream,Rangeline"
