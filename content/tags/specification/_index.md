@@ -2,6 +2,7 @@
 title: "Specifications"
 tags:
 - video
+- generator
 showToc: false
 ---
 ## Airstream Specifications
@@ -28,7 +29,7 @@ https://www.airstream.com/touring-coaches/rangeline/specifications/
 | Air Conditioner | 13,500 BTU w/ Soft Start |
 | Refrigerator & Freezer | 3.2 cu. ft. / .4 cu. ft. Freezer (12 volt w/ Marker Board Front) |
 | Converter/Inverter | 100 AMP Charger, 2,000 Watt True Sine Inverter |
-| [[generator]] | Gas-Fueled 2.8 kW Ultra-Quiet w/ Remote Start |
+| generator | Gas-Fueled 2.8 kW Ultra-Quiet w/ Remote Start |
 | Batteries (Coach) | 270 Ah Deep Cycle Lithium Gamechanger Battle Born Battery (LiFePO4) |
 | Shore Power | 30 AMP/110 Volt Service |
 | Solar Power | Single 200 Watt Panel |

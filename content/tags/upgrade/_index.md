@@ -7,7 +7,7 @@ Generally permanently attached to the van, can include [equipment]({{<ref "/equi
 - Smartfloor/Seating
   > Unsafe when not bolted to frame
 	- [AMF Seats](https://rre-global.com/smartfloor-usa-flooring-seating-systems/)
-	  ![AMF Seat Measurements](/assets/image_1687967303708_0.png)
+	  ![AMF Seat Measurements](/images/image_1687967303708_0.png)
 		-
 	- https://www.vanevolve.com/collections/seats-benches-beds/products/rib-scopema-altair-pre-order-2p
 	- https://fliphtml5.com/riaa/hrfn/basic
