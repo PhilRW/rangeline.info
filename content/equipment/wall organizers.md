@@ -4,6 +4,7 @@ tags:
 - equipment
 - upgrade
 - storage
+- Amazon
 ---
 [Wall organizers](https://www.amazon.com/dp/B094XPH187/ref=nosim?tag=ffwf0f-20)
 - another recommendation from Facebook group member

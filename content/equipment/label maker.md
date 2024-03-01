@@ -2,6 +2,7 @@
 title: "Label maker"
 tags:
 - equipment
+- Amazon
 ---
 [Epson LABELWORKS LW-PX800 Industrial Wireless Label Maker](https://www.amazon.com/dp/B08JRJVL6P/ref=nosim?tag=ffwf0f-20)
 

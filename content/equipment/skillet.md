@@ -2,6 +2,7 @@
 title: Skillet
 tags:
 - equipment
+- Amazon
 ---
 [10" skillet with detachable handle](https://www.amazon.com/dp/B0BY9VT4F2/ref=nosim?tag=ffwf0f-20)
 - 10" at the top should mean 8" at the bottom, which is just the right size for the induction cooktop.

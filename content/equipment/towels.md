@@ -2,6 +2,7 @@
 title: Towels
 tags:
 - equipment
+- Amazon
 ---
 [PackTowl Luxe](https://www.amazon.com/dp/B07ML47P3B/ref=nosim?tag=ffwf0f-20)
 - Wirecutter's top recommendation.

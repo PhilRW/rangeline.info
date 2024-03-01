@@ -2,6 +2,7 @@
 title: "LED road flares"
 tags:
 - equipment
+- Amazon
 ---
 [LED road flares](https://www.amazon.com/dp/B000LQ78YY/ref=nosim?tag=ffwf0f-20)
 - [x] test road flares

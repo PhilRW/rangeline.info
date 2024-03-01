@@ -2,6 +2,7 @@
 title: "Ice cube trays"
 tags:
 - equipment
+- Amazon
 ---
 [Innovative ice cube trays](https://www.amazon.com/dp/B09VRH86S2/ref=nosim?tag=ffwf0f-20)
 - ICEBREAKER POP -- don't know why the product name is shouting, but whatever.

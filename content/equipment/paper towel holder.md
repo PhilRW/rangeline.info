@@ -4,6 +4,7 @@ tags:
 - equipment
 - upgrade
 - galley/sink
+- Amazon
 ---
 [Paper towel holder](https://www.amazon.com/dp/B002YI653C/ref=nosim?tag=ffwf0f-20)
 - Another simplehuman design

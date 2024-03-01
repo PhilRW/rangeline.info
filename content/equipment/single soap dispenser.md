@@ -5,6 +5,7 @@ tags:
 - storage
 - upgrade
 - bath/sink
+- Amazon
 ---
 [Single soap dispenser](https://www.amazon.com/dp/B002RBW7Y2/ref=nosim?tag=ffwf0f-20)
 - By simplehuman

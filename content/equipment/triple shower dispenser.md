@@ -4,6 +4,7 @@ tags:
 - equipment
 - upgrade
 - storage
+- Amazon
 ---
 [Triple shower dispenser](https://www.amazon.com/dp/B002YNQX16/ref=nosim?tag=ffwf0f-20)
 - For soap, shampoo, conditioner, lotion, sunscreen, etc.

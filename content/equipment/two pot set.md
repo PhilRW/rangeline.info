@@ -2,6 +2,7 @@
 title: Two pot set
 tags:
 - equipment
+- Amazon
 ---
 [Two pot set with removable handle](https://www.amazon.com/dp/B0020TVDDM/ref=nosim?tag=ffwf0f-20) 
 - Stainless steel, so it may or may not work with the induction cooktop.
