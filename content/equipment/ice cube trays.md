@@ -10,3 +10,4 @@ tags:
 - These are absolutely fantastic for making ice on the go as they do not spill and you can orient them whichever way you want.
 - We rotate their position in the freezer so we know which one is the (c)oldest.
 	- Doesn't mean it's frozen yet, though.
+- We also use these all the time when at home, especially to make cubes from filtered water.
