@@ -1,7 +1,7 @@
 ---
 title: USB C to A Cable
 tags:
-  - equipment
+- equipment
 - Amazon
 ---
 [Belkin USB-C to USB-A 2M cable](https://www.amazon.com/dp/B09MJQH4C2/ref=nosim?tag=ffwf0f-20)
