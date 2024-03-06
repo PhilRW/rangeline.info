@@ -14,4 +14,4 @@ tags:
     - Don't soak
     - Clean gently with sponge
     - Dry immediately
-- Mentioned on [2023-07-05]({{<ref "post/2023-07-05">}}) and [2023-07-07]({{<ref "post/2023-07-07">}})
+- Mentioned on [2023-07-05]({{<ref "post/2023-07-05">}}) and [2023-07-07]({{<ref "post/2023-07-07">}}).
