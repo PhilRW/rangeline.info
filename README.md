@@ -1,0 +1,1 @@
+This is the source for the [rangeline(dot)info](http://rangeline.info) website. It is generated using the static site generator [hugo](https://gohugo.io)
