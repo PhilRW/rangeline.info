@@ -45,6 +45,9 @@ params:
     - name: cv
       title: Philip Rosenberg-Watt
       url: "http://philip.rosenberg-watt.com/"
+    - name: rss
+      title: RSS Feed
+      url: "/index.xml"
     # - name: X
       # title: Share on X/Twitter
       # url: "https://x.com/intent/tweet/?text=Check%20out%20rangeline%20%28dot%29%20info&url=https://rangeline.info&hashtags=blog,RV,Airstream,Rangeline"
