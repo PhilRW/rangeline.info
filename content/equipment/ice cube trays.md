@@ -11,3 +11,4 @@ tags:
 - We rotate their position in the freezer so we know which one is the (c)oldest.
 	- Doesn't mean it's frozen yet, though.
 - We also use these all the time when at home, especially to make cubes from filtered water.
+- I posted a more detailed review [here](http://reviews.rosenberg-watt.com/post/2024-03-09).
