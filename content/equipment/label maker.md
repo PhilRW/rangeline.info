@@ -4,7 +4,7 @@ tags:
 - equipment
 - Amazon
 ---
-[Epson LABELWORKS LW-PX800 Industrial Wireless Label Maker](https://www.amazon.com/dp/B08JRJVL6P/ref=nosim?tag=ffwf0f-20)
+[Epson LABELWORKS LW-PX800 Industrial Wireless Label Maker]({{<amazon B08JRJVL6P>}})
 
 My research initially led me to Brother label printers, but I thought I'd try the Epson models, for a few reasons:
 - They have an amazing warranty.
