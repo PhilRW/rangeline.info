@@ -18,7 +18,7 @@ menu:
     - name: Equipment
       url: /equipment/
 params:
-  amazonTag: ffwf0f-20
+  amazonTag: rangeline.info-20
   description: "Airstream Rangeline Information Site"
   author: "Philip Rosenberg-Watt"
   defaultTheme: auto
