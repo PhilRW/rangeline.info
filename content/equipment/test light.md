@@ -5,5 +5,5 @@ tags:
 - Firefly
 - Amazon
 ---
-[Test light]({{<amazon B09Z35FGTW>}})
+[Test light]({{<amazon "B09Z35FGTW">}})
 - For testing 12V circuits, helpful when diagnosing the Firefly system.

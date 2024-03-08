@@ -4,7 +4,7 @@ tags:
 - equipment
 - Amazon
 ---
-[LED road flares]({{<amazon B000LQ78YY>}})
+[LED road flares]({{<amazon "B000LQ78YY">}})
 - [x] test road flares
 - 3 AAA batteries each
 - steady-on and blinking mode
