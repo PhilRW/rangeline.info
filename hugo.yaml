@@ -9,6 +9,8 @@ outputs:
     - JSON
 menu:
   main:
+    - name: Archives
+      url: /archives/
     - name: Posts
       url: /post/
     - name: Search
