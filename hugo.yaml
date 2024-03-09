@@ -37,6 +37,9 @@ params:
       We hope you will find this site useful. We will note our experiences and trips with our 2022 Airstream Rangeline here.
       We are not affiliated with Airstream (other than as owners), nor do we represent them in any way. Our opinions are our own.
   socialIcons:
+    - name: other
+      title: "R±W Reviews"
+      url: "http://reviews.rosenberg-watt.com"
     - name: github
       title: View Source on Github
       url: "https://github.com/philrw/rangeline.info"
