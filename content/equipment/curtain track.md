@@ -5,7 +5,7 @@ tags:
 - upgrade
 - Amazon
 ---
-[Black flexible curtain track](https://www.amazon.com/dp/B09Y1WBVTC/ref=nosim?tag=ffwf0f-20)
+[Black flexible curtain track]({{<amazon "B09Y1WBVTC">}})
 - For mounting curtains on the ceiling between the galley, bathroom, and bed.
 - They also make it in white but black will look better in the Rangeline.
 - See it installed [here]({{<ref "post/2023-07-09">}})

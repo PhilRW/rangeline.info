@@ -4,5 +4,5 @@ tags:
 - equipment
 - Amazon
 ---
- [Collapsible pour over coffee dripper](https://www.amazon.com/dp/B09FHPRCDW/ref=nosim?tag=ffwf0f-20)
+ [Collapsible pour over coffee dripper]({{<amazon "B09FHPRCDW">}})
 - because space is always at a premium

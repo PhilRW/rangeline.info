@@ -6,7 +6,7 @@ tags:
 - storage
 - Amazon
 ---
-[Wall organizers](https://www.amazon.com/dp/B094XPH187/ref=nosim?tag=ffwf0f-20)
+[Wall organizers]({{<amazon "B094XPH187">}})
 - another recommendation from Facebook group member
 - Might go well in the galley; wouldn't put them in the shower 'cause it looks like they don't drain.
 - See it installed [here]({{<ref "post/2023-07-09">}})
