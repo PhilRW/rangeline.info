@@ -4,6 +4,7 @@ title: "generator"
 Cummins Onan QG 2800i generator
 - Model No. 2.8HGLAA-8302A
 - Spec: A
+- Takes 1 Qt. of SAE 15W-40 oil.
 
 ![3986A681-7F56-484C-83CD-522275CF7D70_1_105_c.jpeg](/images/3986A681-7F56-484C-83CD-522275CF7D70_1_105_c_1687969412925_0.jpeg)
 
